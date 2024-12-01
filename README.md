@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3N1GM4-01
 - 👀 I’m interested in programming as a career.
-- 🌱 I’m currently learning Python in college classes.
+- 🌱 I’m currently learning Rust with friends.
 - 💞️ I’m looking to collaborate on anything my mind can wrap itself around
 
 
